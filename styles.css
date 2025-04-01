@@ -74,5 +74,6 @@ code {
 
     .main-img {
         margin: 25px 3.5%;
+        width: 100%;
     }
 }

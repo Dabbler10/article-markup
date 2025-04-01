@@ -4,6 +4,8 @@ h1 {
     color:rgba(0,0,0,0.84);
     text-align:left;
     line-height:44px;
+    margin-left: 362px;
+    margin-right: 361px;
 }
 
 h2 {
@@ -12,6 +14,8 @@ h2 {
     color:rgba(0,0,0,0.84);
     text-align:left;
     line-height:39px;
+    margin-left: 362px;
+    margin-right: 361px;
 }
 p {
     font-family:Georgia;
@@ -19,6 +23,8 @@ p {
     color:rgba(0,0,0,0.84);
     text-align:left;
     line-height:33px;
+    margin-left: 362px;
+    margin-right: 361px;
 }
 
 code {
@@ -29,6 +35,8 @@ code {
 img {
     margin-top: 43px;
     margin-bottom: 37px;
+    margin-left: 362px;
+    margin-right: 361px;
 }
 
 
